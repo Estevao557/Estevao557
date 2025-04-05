@@ -5,6 +5,27 @@
 Sou apaixonado por tecnologia e aprendizado contínuo. Atualmente, sou Analista de Sistemas Jr, sou formado em Engenharia Civil e estou cursando MBA em Engenharia de Software. No meu tempo livre, gosto de assistir séries e filmes, quando consigo, e de jogar vídeo game. Sempre em busca de novos desafios e aprimoramento profissional.
 
 
+
+### 📊 Estatísticas
+
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=Larissakich&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
+
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissakich&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
+
+</p>
+
 ## Você pode me encontrar em:
 
 [![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-0077B5?style=for-the-badge&logo=gitbook&logoColor=white)](https://www.dio.me/users/rat871)
@@ -34,9 +55,6 @@ Sou apaixonado por tecnologia e aprendizado contínuo. Atualmente, sou Analista 
 |---------------|------------------------|
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)|![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)|
 |-----------------|----------------|
-
-## 🚀 Linguagem mais usada
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=estevao557&layout=compact)](https://github.com/estevao557/github-readme-stats)
 
 
 ## Certificaçoes
